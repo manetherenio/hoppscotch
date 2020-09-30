@@ -19,7 +19,7 @@ export default {
   ssr: false,
   target: "static",
   server: {
-    host: "0.0.0.0", // default: localhost
+    host: "127.0.0.1", // default: localhost
   },
   /*
    ** Headers of the page
